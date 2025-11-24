@@ -1,5 +1,4 @@
 # OpenLANE Flow for PicoRV32A 
-## Complete Step-by-Step Commands With Explanations (Markdown Version)
 
 ---
 
