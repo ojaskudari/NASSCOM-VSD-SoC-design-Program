@@ -168,7 +168,7 @@ echo $::env(ROUTING_STRATEGY)
 run_routing
 ```
 
-![alt text](./Images/image-20.png)
+![alt text](image-20.png)
 ![alt text](image-21.png)
 ![alt text](image-22.png)
 
@@ -204,4 +204,5 @@ report_checks -path_delay min_max -fields {slew trans net cap input_pins} -forma
 exit
 ```
 ---
+
 
